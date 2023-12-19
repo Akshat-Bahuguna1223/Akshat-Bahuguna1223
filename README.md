@@ -88,7 +88,7 @@ I enjoy travelling, playing chess, and playing football. I have played in severa
 <br>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left"  src="https://streak-stats.demolab.com/?user=Akshat-Bahuguna1223&theme=react&border=61dafb&hide_border=true" alt="Akshat-Bahuguna1223" />
+      <img align="left" width="400" height="400" src="https://streak-stats.demolab.com/?user=Akshat-Bahuguna1223&theme=react&border=61dafb&hide_border=true" alt="Akshat-Bahuguna1223" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Akshat-Bahuguna1223&show_icons=true&hide_rank=true&theme=react&border_color=61dafb&hide_border=true" />
