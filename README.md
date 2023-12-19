@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Akshat Bahuguna</h1>
+<h1 align="center">Hi 👋! I am Akshat Bahuguna</h1>
 
 ###
 
@@ -6,26 +6,32 @@
 
 ###
 
+<p align="left">I am particularly interested in DevOps opportunity because I am eager to work in DevOps. I am a highly motivated and results-oriented individual, and I am always eager to learn new things. I am also a team player, and I am confident that I would be a valuable asset to your team. I have attached my resume for your review, and I would be happy to answer any questions that you may have. I am available for an interview at your earliest convenience.</p>
+
+###
+
 <h2 align="left">Technical Skills:</h2>
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jenkins/D24939" height="30" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/powershell/5391FE" height="30" alt="powershell logo"  />
   <img width="12" />
@@ -46,9 +52,11 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/akshat-bahuguna-b111ab201/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -68,9 +76,16 @@
 
 ###
 
-<div align="center">
-  <img height="140" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshat-Bahuguna1223&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2&custom_title=Language%20used:" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+<img align="right" height="150" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Akshat-Bahuguna1223.Akshat-Bahuguna1223&left_color=pink"  />
+
+###
