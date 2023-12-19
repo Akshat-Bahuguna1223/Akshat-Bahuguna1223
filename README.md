@@ -70,7 +70,7 @@
   <img src="https://streak-stats.demolab.com?user=Akshat-Bahuguna1223&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshat-Bahuguna1223&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2&custom_title=Language%20used:" height="150" alt="languages graph"  />
 </div>
-<img src="https://raw.githubusercontent.com/Akshat-Bahuguna1223/Akshat-Bahuguna1223/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Akshat-Bahuguna1223/Akshat-Bahuguna1223/blob/output/github-contribution-grid-snake.gif)
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Akshat-Bahuguna1223.Akshat-Bahuguna1223&left_color=pink"  />
 
