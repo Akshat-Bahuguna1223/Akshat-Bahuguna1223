@@ -2,13 +2,14 @@
 
 <!--Header-->
   <div>
+
   </div>
   
   <p>&nbsp;</p>
   <!--social media icon-->
 <div align="center">
  
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshat.bahuguna001@gmail.com)](akshat.bahuguna001@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-akshat.bahuguna001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshat.bahuguna001@gmail.com)](akshat.bahuguna001@gmail.com)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshat-bahuguna-b111ab201)](https://www.linkedin.com/in/akshat-bahuguna-b111ab201/) 
 [![GitHub followers](https://img.shields.io/github/followers/Akshat-Bahuguna1223?label=Follow&style=social)](https://github.com/Akshat-Bahuguna1223/?tab=follow)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Akshat-Bahuguna1223.Akshat-Bahuguna1223&left_color=blue&right_color=pink"  />
@@ -22,26 +23,26 @@
 <!--About Me-->
 <div>
  <p>
-  <img align="left" height="250" align='right' src="boy.jpeg"> 
+  <img align="left" height="200" src="boy.jpeg"> 
 </p>
   
 
 
-## About Me 
- 
- I am particularly interested in DevOps opportunity because I am eager to work in DevOps. I am a highly motivated and results-oriented individual, and I am always eager to learn new things. I am also a team player, and I am confident that I would be a valuable asset to your team. I have attached my resume for your review, and I would be happy to answer any questions that you may have. I am available for an interview at your earliest convenience. 
+<h1 align="center">About Me</h1> 
 
+ Enthusiastic DevOps learner with a keen interest in automation and workflow optimization. Eager to master the intricacies of CI/CD pipelines and infrastructure as code, my goal is to become a DevOps engineer proficient in bridging the gap between development and operations. Join me on this exciting journey as I level up my skills, aiming to contribute significantly to any team. Motivated, results-oriented, and a dedicated team player. Let's connect and explore the possibilities in the dynamic realm of DevOps!
+<br clear="both">
 
 </div>
 
 <!--technical skills-->
+<img align="right" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="300"> 
 
-## Technical Skills
-
-<img align="right" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="250"> 
-As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies.
+<h1 align="center">Technical Skills</h1> 
+ My strengths lie in both collaboration and independent thought. My teamwork shines through various events where I've consistently been praised for my dedication and ability to gel with others. Conversely, my creative fire thrives on solo projects, allowing me to think outside the box and bring fresh ideas to the table. This blend of interpersonal and intrapersonal skills, I believe, makes me a valuable asset to any team.
 
 <div align="left">
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
@@ -72,20 +73,22 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 </div>
 
  <!--My Hobbies-->
- ## My Hobbies 
-
-<img align='left' src='https://github.com/Akshat-Bahuguna1223/Akshat-Bahuguna1223/blob/3d64d0d69bbb0e7405d4c513f53bfa288a8e7e30/hobby.gif' width="300" height="180">
-<p>
-An interest is important for all of us because it not only keeps you entertained but also offers several advantages that can enhance your quality of life. It calms your mind and gives you a sense of peace and tranquility. 
-<br>
-I enjoy travelling, playing chess, and playing football. I have played in several football matches for my school. Embracing our interests not only enriches our lives but also contributes to our overall well-being. So, keep exploring, playing, and enjoying every moment! <br>
-  ⚽ ♟️ 🧳
-</p>
+<div>
+  <p>
+    <img align="left" height="250" src='https://github.com/Akshat-Bahuguna1223/Akshat-Bahuguna1223/blob/3d64d0d69bbb0e7405d4c513f53bfa288a8e7e30/hobby.gif'  >
+  </p>
+  
+<h1 align="center">Hobbies</h1> 
+ An interest is important for all of us because it not only keeps you entertained but also offers several advantages that can enhance your quality of life. It calms your mind and gives you a sense of peace and tranquility.
+ <br>
+ I enjoy travelling, playing chess, and playing football. I have played in several football matches for my school. Embracing our interests not only enriches our lives but also contributes to our overall well-being. So, keep exploring, playing, and enjoying every moment! 
+ <br>
+ <p align="center"> ⚽ - ♟️ - 🧳 </p>
+</div>
 
 <!--Github Progess bar-->
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h1 align="center">Stats</h1> 
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img src="https://streak-stats.demolab.com/?user=Akshat-Bahuguna1223&theme=react&border=61dafb&hide_border=true" alt="Akshat-Bahuguna1223" />
